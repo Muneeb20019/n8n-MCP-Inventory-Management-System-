@@ -2,7 +2,7 @@
 
 An advanced, AI-driven automation workflow built with **n8n** and **MCP (Model Context Protocol)**. This system transforms an AI Agent into a powerful Inventory Manager capable of handling complex database operations on Google Sheets through simple natural language chat.
 
-![n8n Workflow Canvas](https://github.com/Muneeb20019/n8n-2/raw/main/mcp_inventory_canvas.png)
+(https://github.com/Muneeb20019/n8n-MCP-Inventory-Management-System-/blob/main/MCP%20Inventory.png?raw=true)
 *Figure 1: The n8n automation architecture featuring the AI Agent and MCP Trigger.*
 
 ## ✨ Features
