@@ -24,7 +24,8 @@ An advanced, AI-driven automation workflow built with **n8n** and **MCP (Model C
 ## 🖼️ Inventory Database
 The system manages a structured database as shown below:
 
-![Google Sheets Inventory](https://github.com/Muneeb20019/n8n-2/raw/main/inventory_sheet_screenshot.png)
+![Google Sheets Inventory]  [
+](https://github.com/Muneeb20019/n8n-MCP-Inventory-Management-System-/blob/main/Inventory%20Management%20Sheet.png?raw=true)
 *Figure 2: The 'Inventory Management Sheet' managed by the AI Agent.*
 
 ## ⚙️ How It Works
