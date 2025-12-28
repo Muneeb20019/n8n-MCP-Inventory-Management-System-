@@ -2,7 +2,7 @@
 
 An advanced, AI-driven automation workflow built with **n8n** and **MCP (Model Context Protocol)**. This system transforms an AI Agent into a powerful Inventory Manager capable of handling complex database operations on Google Sheets through simple natural language chat.
 
-(https://github.com/Muneeb20019/n8n-MCP-Inventory-Management-System-/blob/main/MCP%20Inventory.png?raw=true)
+![n8n Workflow Canvas](https://github.com/Muneeb20019/n8n-MCP-Inventory-Management-System-/blob/main/MCP%20Inventory.png?raw=true)
 *Figure 1: The n8n automation architecture featuring the AI Agent and MCP Trigger.*
 
 ## ✨ Features
@@ -24,8 +24,7 @@ An advanced, AI-driven automation workflow built with **n8n** and **MCP (Model C
 ## 🖼️ Inventory Database
 The system manages a structured database as shown below:
 
-![Google Sheets Inventory]  [
-](https://github.com/Muneeb20019/n8n-MCP-Inventory-Management-System-/blob/main/Inventory%20Management%20Sheet.png?raw=true)
+![Google Sheets Inventory](https://github.com/Muneeb20019/n8n-MCP-Inventory-Management-System-/blob/main/Inventory%20Management%20Sheet.png?raw=true)
 *Figure 2: The 'Inventory Management Sheet' managed by the AI Agent.*
 
 ## ⚙️ How It Works
@@ -48,7 +47,7 @@ The system manages a structured database as shown below:
 ### Steps
 1.  **Clone this Repository**:
     ```bash
-    git clone https://github.com/Muneeb20019/n8n-2.git
+    git clone https://github.com/Muneeb20019/n8n-MCP-Inventory-Management-System-.git
     ```
 2.  **Import Workflow**:
     *   Import the `MCP_Inventory.json` file into your n8n editor.
